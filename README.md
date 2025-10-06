@@ -1,2 +1,2 @@
 # ball_balancing_V1
-Using OpenCV for tracking, the MATLAB-Simulink controller determines plate angles, which are converted via Inverse Kinematics into joint commands for the STM32 Blue Pill to maintain ball stability.
+This vision-based ball balancing project uses an OpenCV pipeline to track the ball's position, feeding this error into a MATLAB-Simulink control loop to determine the necessary platform pitch and roll angles. Subsequently, an Inverse Kinematics model translates these target tilt angles into the specific joint commands that are then executed by the STM32 Blue Pill microcontroller, actively stabilizing the ball's position.
