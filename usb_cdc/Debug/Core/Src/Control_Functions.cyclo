@@ -1,0 +1,6 @@
+../Core/Src/Control_Functions.c:15:6:Machine_init	1
+../Core/Src/Control_Functions.c:21:7:Machine_theta	5
+../Core/Src/Control_Functions.c:64:7:clamp	3
+../Core/Src/Control_Functions.c:71:6:ServoControl	1
+../Core/Src/Control_Functions.c:84:6:PID_compute	1
+../Core/Src/Control_Functions.c:112:6:moveTo	8

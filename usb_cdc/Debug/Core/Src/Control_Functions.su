@@ -1,0 +1,6 @@
+../Core/Src/Control_Functions.c:15:6:Machine_init	24	static
+../Core/Src/Control_Functions.c:21:7:Machine_theta	120	static
+../Core/Src/Control_Functions.c:64:7:clamp	24	static
+../Core/Src/Control_Functions.c:71:6:ServoControl	40	static
+../Core/Src/Control_Functions.c:84:6:PID_compute	24	static
+../Core/Src/Control_Functions.c:112:6:moveTo	56	static
